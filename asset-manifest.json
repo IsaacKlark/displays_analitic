@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/displays_analitic/static/css/main.9cc4833c.chunk.css",
+    "main.js": "/displays_analitic/static/js/main.8c1702d8.chunk.js",
+    "main.js.map": "/displays_analitic/static/js/main.8c1702d8.chunk.js.map",
+    "runtime-main.js": "/displays_analitic/static/js/runtime-main.1e3bfb83.js",
+    "runtime-main.js.map": "/displays_analitic/static/js/runtime-main.1e3bfb83.js.map",
+    "static/js/2.9a4a94c7.chunk.js": "/displays_analitic/static/js/2.9a4a94c7.chunk.js",
+    "static/js/2.9a4a94c7.chunk.js.map": "/displays_analitic/static/js/2.9a4a94c7.chunk.js.map",
+    "static/js/3.19bf84ef.chunk.js": "/displays_analitic/static/js/3.19bf84ef.chunk.js",
+    "static/js/3.19bf84ef.chunk.js.map": "/displays_analitic/static/js/3.19bf84ef.chunk.js.map",
+    "index.html": "/displays_analitic/index.html",
+    "static/css/main.9cc4833c.chunk.css.map": "/displays_analitic/static/css/main.9cc4833c.chunk.css.map",
+    "static/js/2.9a4a94c7.chunk.js.LICENSE.txt": "/displays_analitic/static/js/2.9a4a94c7.chunk.js.LICENSE.txt",
+    "static/media/operation_room.aca16f00.jpg": "/displays_analitic/static/media/operation_room.aca16f00.jpg",
+    "static/media/pressure.5e7f9c5c.png": "/displays_analitic/static/media/pressure.5e7f9c5c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e3bfb83.js",
+    "static/js/2.9a4a94c7.chunk.js",
+    "static/css/main.9cc4833c.chunk.css",
+    "static/js/main.8c1702d8.chunk.js"
+  ]
+}
