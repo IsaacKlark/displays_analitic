@@ -1,0 +1,120 @@
+body {
+    background-color: lightgray;
+}
+
+.mainWrapper {
+    width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    padding: 0 20px;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+}
+
+.imageAndButtonWrapper {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: end;
+        -ms-flex-align: end;
+            align-items: flex-end;
+    padding-bottom: 20px;
+}
+
+.monitoringButton {
+    height: -webkit-max-content;
+    height: -moz-max-content;
+    height: max-content;
+    font-size: 30px;
+    padding: 10px 20px;
+}
+
+.monitoringButton:hover {
+    cursor: pointer;
+}
+
+.pannel {
+    width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+}
+
+.head {
+    text-transform: uppercase;
+    width: 100%;
+    text-align: center;
+    color: #373a5d;
+}
+
+.dataWrapper {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: start;
+        -ms-flex-align: start;
+            align-items: flex-start;
+    padding-bottom: 20px;
+    width: 930px;
+}
+
+.panelContentImage {
+    height: 50px;
+    margin-right: 10px;
+}
+
+.operationRoom {
+    padding-right: 20px;
+}
+
+.temperature {
+    font-size: 30px;
+    color: red;
+    margin: 0;
+    white-space: nowrap;
+    width: 240px;
+
+    sup {
+        font-size: 20px;
+    }
+}
+
+.pressure, .humidity {
+    font-size: 30px;
+    color:gray;
+    white-space: nowrap;
+    margin: 0;
+    width: 240px;
+}
+
+.humidity {
+    color: blue;
+    width: 240px;
+}
+
+.dataWrapperTemperature {
+    background-color: rgba(255, 0, 0, 0.3);
+}
+
+.dataWrapperPressure {
+    background-color: rgba(100, 100, 100, 0.3);
+}
+
+.dataWrapperHumidity {
+    background-color: rgba(0, 0, 255, 0.3);
+}
